@@ -1,1 +1,1 @@
-# CPlusPlus11-14
+Source code of the demos from Complete Modern C++ course.
